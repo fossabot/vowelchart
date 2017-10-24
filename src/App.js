@@ -21,11 +21,10 @@ class App extends Component {
             <div className="navbar-menu">
               <div className="navbar-start"/>
               <div className="navbar-end">
-                <a className="navbar-item is-hidden-desktop-only"
-                   href="https://github.com/schweinebauch-heroes/vowelchart" target="_blank" rel="noopener noreferrer">
-                <span className="icon github">
-                  <i className="fa fa-lg fa-github"/>
-                </span>
+                <a className="navbar-item is-hidden-desktop-only" href="https://github.com/schweinebauch-heroes/vowelchart" target="_blank" rel="noopener noreferrer">
+                  <span className="icon github">
+                    <i className="fa fa-lg fa-github"/>
+                  </span>
                 </a>
               </div>
             </div>
